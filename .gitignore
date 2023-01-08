@@ -1,0 +1,12 @@
+# audio files
+*.wav
+
+# praat data files
+*.Collection
+
+# exported pictures/documents
+*.png
+*.pdf
+
+# OS files
+.DS_Store
